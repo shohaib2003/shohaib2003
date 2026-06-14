@@ -11,12 +11,12 @@
 ## 📊 **GitHub Stats**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&bg_color=0a0a0a&title_color=00ff41&icon_color=00ff41&text_color=ffffff&border_color=00ff41" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&background=0a0a0a&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakNum=ffffff&sideNums=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&dates=ffffff" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shohaib2003&show_icons=true&theme=dark&bg_color=0a0a0a&title_color=00ff41&icon_color=00ff41&text_color=ffffff&border_color=00ff41" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shohaib2003&theme=dark&background=0a0a0a&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakNum=ffffff&sideNums=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&dates=ffffff" width="49%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&bg_color=0a0a0a&color=00ff41&line=00ff41&point=ff0040&area=true&hide_border=true" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shohaib2003&theme=react-dark&bg_color=0a0a0a&color=00ff41&line=00ff41&point=ff0040&area=true&hide_border=true" width="90%" />
 </div>
 
 ---
@@ -68,7 +68,7 @@
 ## 📈 **Project Statistics**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&bg_color=0a0a0a&title_color=00ff41&text_color=ffffff&border_color=00ff41" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shohaib2003&layout=compact&theme=dark&bg_color=0a0a0a&title_color=00ff41&text_color=ffffff&border_color=00ff41" width="60%" />
 </div>
 
 | Metric | Value |
@@ -85,7 +85,7 @@
 ## 🔥 **GitHub Trophies**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" width="80%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shohaib2003&theme=darkhub&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" width="80%" />
 </div>
 
 ---
