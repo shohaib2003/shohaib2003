@@ -82,13 +82,6 @@
 
 ---
 
-## 🔥 **GitHub Trophies**
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shohaib2003&theme=darkhub&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" width="80%" />
-</div>
-
----
 
 ## 📊 **Weekly Development Breakdown**
 
